@@ -1,3 +1,0 @@
-/Users/shenjiarui/Documents/我的文档/学校文件/武汉理工大学/正在学课课程文件/算法设计与分析B/实验（小雅）/实验二动态规划/最大K乘积问题/MaxKProduct/cmake-build-debug/CMakeFiles/MaxKProduct.dir
-/Users/shenjiarui/Documents/我的文档/学校文件/武汉理工大学/正在学课课程文件/算法设计与分析B/实验（小雅）/实验二动态规划/最大K乘积问题/MaxKProduct/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/shenjiarui/Documents/我的文档/学校文件/武汉理工大学/正在学课课程文件/算法设计与分析B/实验（小雅）/实验二动态规划/最大K乘积问题/MaxKProduct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
